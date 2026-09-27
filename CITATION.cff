@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite the Zenodo publication below."
+title: "What Does a VPN Actually Hide? Independent Verification of AirVPN, WireGuard, DNS and Kill-Switch Behaviour"
+type: generic
+authors:
+  - family-names: Pakhet
+    given-names: Kyle
+version: "1.0"
+date-released: 2026-09-27
+doi: 10.5281/zenodo.22986653
+url: "https://doi.org/10.5281/zenodo.22986653"
+license: CC-BY-4.0
+keywords:
+  - VPN
+  - AirVPN
+  - WireGuard
+  - DNS privacy
+  - DNS leak
+  - IPv6
+  - nftables
+  - kill switch
+  - traffic analysis
+  - network privacy
+  - metadata
+  - Linux
+  - packet capture
+  - tcpdump
+  - privacy engineering
