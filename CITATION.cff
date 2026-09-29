@@ -5,9 +5,9 @@ type: generic
 authors:
   - family-names: Pakhet
     given-names: Kyle
-version: "1.0"
-date-released: 2026-09-27
-doi: 10.5281/zenodo.22986653
+version: "1.1"
+date-released: 2026-09-28
+doi: 10.5281/zenodo.23027447
 url: "https://doi.org/10.5281/zenodo.22986653"
 license: CC-BY-4.0
 keywords:
