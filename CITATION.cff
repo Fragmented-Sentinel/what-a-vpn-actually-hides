@@ -2,14 +2,17 @@ cff-version: 1.2.0
 message: "If you use or reference this work, please cite the Zenodo publication below."
 title: "What Does a VPN Actually Hide? Independent Verification of AirVPN, WireGuard, DNS and Kill-Switch Behaviour"
 type: generic
+
 authors:
   - family-names: Pakhet
     given-names: Kyle
+
 version: "1.1"
 date-released: 2026-09-28
 doi: 10.5281/zenodo.23027447
-url: "https://doi.org/10.5281/zenodo.22986653"
+url: "https://doi.org/10.5281/zenodo.23027447"
 license: CC-BY-4.0
+
 keywords:
   - VPN
   - AirVPN
@@ -19,10 +22,12 @@ keywords:
   - IPv6
   - nftables
   - kill switch
+  - systemd
   - traffic analysis
   - network privacy
   - metadata
-  - Linux
+  - Linux Mint
   - packet capture
   - tcpdump
+  - reproducibility
   - privacy engineering
